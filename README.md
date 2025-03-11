@@ -7,6 +7,6 @@ Then, drag the mod file in the window, mod files should have the following:
 - ModMaster
 - ModRecipes
 - sprites
-- Scripts
+- Stuff
 
 And that's all. With this version you can activate or disable any mod (normaly).
