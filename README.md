@@ -1,7 +1,7 @@
 # Alchemist-s-Alcove-ModManager
 Just a Fan Made Mod Manager for Alchemist's Alcove
 
-# STILL HAVE ISSUES THAT IM WORKING ON!
+# I will work on the gui soon
 
 # How to use
 (disclaimer:the file will be shown as a virus or stuff like that, just press see more and continue)
