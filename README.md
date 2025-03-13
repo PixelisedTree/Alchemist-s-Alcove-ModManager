@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PixelisedTree)](https://github.com/PixelisedTree/Alchemist-s-Alcove-ModManager/blob/main/Alchemist's-Alcove-ModManager-Raw)
 # Alchemist-s-Alcove-ModManager
 Just a Fan Made Mod Manager for Alchemist's Alcove
 
