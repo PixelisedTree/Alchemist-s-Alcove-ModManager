@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/PixelisedTree/Alchemist-s-Alcove-ModManager/edit/main/README.md)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/PixelisedTree/Alchemist-s-Alcove-ModManager/tree/main/Alchemist's-Alcove-ModManager-Raw)
 # Alchemist-s-Alcove-ModManager
 Just a Fan Made Mod Manager for Alchemist's Alcove
 
