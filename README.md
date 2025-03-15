@@ -1,5 +1,5 @@
 # Alchemist-s-Alcove-ModManager
-(disclaimer: it will be detected as a virus)
+(disclaimer: it will be detected as a virus, pass it in a virus detector if you want)
 Just a Fan Made Mod Manager for Alchemist's Alcove
 
 # I will work on the gui soon
